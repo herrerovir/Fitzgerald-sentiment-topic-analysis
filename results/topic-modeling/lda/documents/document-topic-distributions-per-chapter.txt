@@ -1,0 +1,28 @@
+== Topic Distribution per Chapter ==
+Document 1:Book: 'This Side Of Paradise' | Chapter: 'CHAPTER I'Topic Distribution:  Topic 0: 0.9753  Topic 1: 0.0106
+Document 2:Book: 'This Side Of Paradise' | Chapter: 'CHAPTER II'Topic Distribution:  Topic 0: 0.9785
+Document 3:Book: 'This Side Of Paradise' | Chapter: 'CHAPTER III'Topic Distribution:  Topic 0: 0.9732  Topic 1: 0.0115
+Document 4:Book: 'This Side Of Paradise' | Chapter: 'CHAPTER IV'Topic Distribution:  Topic 0: 0.9751  Topic 1: 0.0107
+Document 5:Book: 'This Side Of Paradise' | Chapter: 'CHAPTER I'Topic Distribution:  Topic 0: 0.9682  Topic 1: 0.0136  Topic 2: 0.0101
+Document 6:Book: 'This Side Of Paradise' | Chapter: 'CHAPTER II'Topic Distribution:  Topic 0: 0.9713  Topic 1: 0.0123
+Document 7:Book: 'This Side Of Paradise' | Chapter: 'CHAPTER III'Topic Distribution:  Topic 0: 0.9667  Topic 1: 0.0142  Topic 2: 0.0106
+Document 8:Book: 'This Side Of Paradise' | Chapter: 'CHAPTER IV'Topic Distribution:  Topic 0: 0.9581  Topic 1: 0.0179  Topic 2: 0.0133  Topic 3: 0.0106
+Document 9:Book: 'This Side Of Paradise' | Chapter: 'CHAPTER V'Topic Distribution:  Topic 0: 0.9732  Topic 1: 0.0115
+Document 10:Book: 'The Beautiful And Damned' | Chapter: 'CHAPTER I'Topic Distribution:  Topic 0: 0.9738  Topic 1: 0.0112
+Document 11:Book: 'The Beautiful And Damned' | Chapter: 'CHAPTER II'Topic Distribution:  Topic 0: 0.9764  Topic 1: 0.0101
+Document 12:Book: 'The Beautiful And Damned' | Chapter: 'CHAPTER III'Topic Distribution:  Topic 0: 0.9793
+Document 13:Book: 'The Beautiful And Damned' | Chapter: 'CHAPTER I'Topic Distribution:  Topic 0: 0.9789
+Document 14:Book: 'The Beautiful And Damned' | Chapter: 'CHAPTER II'Topic Distribution:  Topic 0: 0.9794
+Document 15:Book: 'The Beautiful And Damned' | Chapter: 'CHAPTER III'Topic Distribution:  Topic 0: 0.9768
+Document 16:Book: 'The Beautiful And Damned' | Chapter: 'CHAPTER I'Topic Distribution:  Topic 0: 0.9738  Topic 1: 0.0112
+Document 17:Book: 'The Beautiful And Damned' | Chapter: 'CHAPTER II'Topic Distribution:  Topic 0: 0.9768
+Document 18:Book: 'The Beautiful And Damned' | Chapter: 'CHAPTER III'Topic Distribution:  Topic 0: 0.9759  Topic 1: 0.0103
+Document 19:Book: 'The Great Gatsby' | Chapter: 'CHAPTER I'Topic Distribution:  Topic 0: 0.9689  Topic 1: 0.0133
+Document 20:Book: 'The Great Gatsby' | Chapter: 'CHAPTER II'Topic Distribution:  Topic 0: 0.9568  Topic 1: 0.0185  Topic 2: 0.0137  Topic 3: 0.0110
+Document 21:Book: 'The Great Gatsby' | Chapter: 'CHAPTER III'Topic Distribution:  Topic 0: 0.9685  Topic 1: 0.0135  Topic 2: 0.0100
+Document 22:Book: 'The Great Gatsby' | Chapter: 'CHAPTER IV'Topic Distribution:  Topic 0: 0.9655  Topic 1: 0.0148  Topic 2: 0.0110
+Document 23:Book: 'The Great Gatsby' | Chapter: 'CHAPTER V'Topic Distribution:  Topic 0: 0.9592  Topic 1: 0.0175  Topic 2: 0.0130  Topic 3: 0.0104
+Document 24:Book: 'The Great Gatsby' | Chapter: 'CHAPTER VI'Topic Distribution:  Topic 0: 0.9635  Topic 1: 0.0156  Topic 2: 0.0116
+Document 25:Book: 'The Great Gatsby' | Chapter: 'CHAPTER VII'Topic Distribution:  Topic 0: 0.9684  Topic 1: 0.0135  Topic 2: 0.0101
+Document 26:Book: 'The Great Gatsby' | Chapter: 'CHAPTER VIII'Topic Distribution:  Topic 0: 0.9634  Topic 1: 0.0157  Topic 2: 0.0117
+Document 27:Book: 'The Great Gatsby' | Chapter: 'CHAPTER IX'Topic Distribution:  Topic 0: 0.9657  Topic 1: 0.0147  Topic 2: 0.0109

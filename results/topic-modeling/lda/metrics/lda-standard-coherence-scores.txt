@@ -1,0 +1,5 @@
+== LDA Standard Model Evaluation: Coherence Score ==
+
+Number of Topics: 6 | Coherence Score = 0.4086Number of Topics: 6 | Coherence Score = 0.4086Number of Topics: 6 | Coherence Score = 0.4086Number of Topics: 6 | Coherence Score = 0.4086
+Best LDA model has 4 topics with a coherence score of 0.5183
+----------------------------------------

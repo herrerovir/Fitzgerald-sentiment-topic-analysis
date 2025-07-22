@@ -1,0 +1,28 @@
+
+Topic 0 | lawn, porch, dog, camp, wood, heat, kissed, marry, lord, horse
+Representative Documents:
+Prob: 0.98 | symposium lulled mind sleep wisest finest hung brilliant curtain doorway shutting sun believed bore invariably stamp sun pattern curtain lassitude brought summer golden enervating spring loitered restive lazily extravagant california coast joining party intermittently drifting pasadena coronado coro
+Prob: 0.98 | connoisseur kiss undergraduate editor crimson desired senior picked glorified illusion aside service accomplish vague yearnful react eternal reward least personal satisfaction striven greatest greatest number spirit rocked america begin rule immaturity facile impression yearsometimes preparatory pro
+Prob: 0.98 | radiant fortnight indulge practical discussion session guise severe realism eternal moonlight critic belleslettres insist loved protested stand sandwich informing passersby reason marry june clean blowy clean like clean polished pan clean stream wind person clean kind clean twin ecstatic mother hesi
+----------------------------------------
+
+Topic 1 | except, fold, luxury, lavender, whispering, arrive, lap, concern, blurred, enemy
+Representative Documents:
+Prob: 0.02 | halfway hastily join railroad run beside quarter mile shrink area land ashesa fantastic farm grow wheat ridge hill grotesque garden form chimney rising smoke finally transcendent effort ashgrey move dimly already crumbling powdery occasionally line grey crawl along invisible track ghastly creak rest
+Prob: 0.02 | sacrifice city paced board walk lulled everlasting surge changing wave smelling halfmournful odor salt breeze sea treasured memory faithless land whisper norse galley ploughing water ravenfigured flag british dreadnought bulwark civilization steaming fog july north sea wellamory low racing drawn sto
+Prob: 0.02 | afraid fire peninsula blazing fell unreal shrubbery elongating glint roadside wire turning lit tower party wild rout resolved hideandgoseek sardinesinthebox thrown game wind tree blew wire winked darkness taxi groaned away walking lawn fair absently glancing coney plunge swimming pool use summer wai
+----------------------------------------
+
+Topic 2 | artistic, reward, possess, discreetly, willing, arrive, wanting, dock, invisible, muffled
+Representative Documents:
+Prob: 0.01 | halfway hastily join railroad run beside quarter mile shrink area land ashesa fantastic farm grow wheat ridge hill grotesque garden form chimney rising smoke finally transcendent effort ashgrey move dimly already crumbling powdery occasionally line grey crawl along invisible track ghastly creak rest
+Prob: 0.01 | sacrifice city paced board walk lulled everlasting surge changing wave smelling halfmournful odor salt breeze sea treasured memory faithless land whisper norse galley ploughing water ravenfigured flag british dreadnought bulwark civilization steaming fog july north sea wellamory low racing drawn sto
+Prob: 0.01 | afraid fire peninsula blazing fell unreal shrubbery elongating glint roadside wire turning lit tower party wild rout resolved hideandgoseek sardinesinthebox thrown game wind tree blew wire winked darkness taxi groaned away walking lawn fair absently glancing coney plunge swimming pool use summer wai
+----------------------------------------
+
+Topic 3 | wire, shirt, bay, murmur, corrected, embarrassed, hardly, goodbye, dock, embarrassment
+Representative Documents:
+Prob: 0.01 | halfway hastily join railroad run beside quarter mile shrink area land ashesa fantastic farm grow wheat ridge hill grotesque garden form chimney rising smoke finally transcendent effort ashgrey move dimly already crumbling powdery occasionally line grey crawl along invisible track ghastly creak rest
+Prob: 0.01 | sacrifice city paced board walk lulled everlasting surge changing wave smelling halfmournful odor salt breeze sea treasured memory faithless land whisper norse galley ploughing water ravenfigured flag british dreadnought bulwark civilization steaming fog july north sea wellamory low racing drawn sto
+Prob: 0.01 | afraid fire peninsula blazing fell unreal shrubbery elongating glint roadside wire turning lit tower party wild rout resolved hideandgoseek sardinesinthebox thrown game wind tree blew wire winked darkness taxi groaned away walking lawn fair absently glancing coney plunge swimming pool use summer wai
+----------------------------------------

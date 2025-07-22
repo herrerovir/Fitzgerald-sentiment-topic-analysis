@@ -1,0 +1,19 @@
+== LDA Model Comparison ==
+
+Model: Standard LDA
+--------------------
+Topic 0 | lawn, porch, dog, camp, wood, heat, kissed, marry, lord, horse
+Topic 1 | except, fold, luxury, lavender, whispering, arrive, lap, concern, blurred, enemy
+Topic 2 | artistic, reward, possess, discreetly, willing, arrive, wanting, dock, invisible, muffled
+Topic 3 | wire, shirt, bay, murmur, corrected, embarrassed, hardly, goodbye, dock, embarrassment
+
+----------------------------------------
+
+Model: Multicore LDA
+---------------------
+Topic 0 | dog, sister, stout, discreetly, lap, shrill, blurred, grey, artistic, haste
+Topic 1 | camp, tent, anxiously, innumerable, goodbye, luxury, except, pool, disappeared, dawn
+Topic 2 | artistic, discreetly, lift, wanting, sadly, possess, muffled, discreet, streak, willing
+Topic 3 | lawn, porch, dog, camp, wood, heat, kissed, marry, lord, horse
+
+----------------------------------------
