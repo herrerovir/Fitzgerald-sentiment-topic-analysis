@@ -1,0 +1,28 @@
+book,chapter,topic,confidence
+This Side Of Paradise,CHAPTER I,0,1.0
+This Side Of Paradise,CHAPTER II,1,1.0
+This Side Of Paradise,CHAPTER III,5,1.0
+This Side Of Paradise,CHAPTER IV,0,1.0
+This Side Of Paradise,CHAPTER I,3,1.0
+This Side Of Paradise,CHAPTER II,1,1.0
+This Side Of Paradise,CHAPTER III,5,1.0
+This Side Of Paradise,CHAPTER IV,4,0.1905856206292305
+This Side Of Paradise,CHAPTER V,6,1.0
+The Beautiful And Damned,CHAPTER I,0,0.6479239943552549
+The Beautiful And Damned,CHAPTER II,1,0.20863453592161174
+The Beautiful And Damned,CHAPTER III,0,0.3284320949655819
+The Beautiful And Damned,CHAPTER I,3,1.0
+The Beautiful And Damned,CHAPTER II,3,0.19399356589886121
+The Beautiful And Damned,CHAPTER III,1,0.12629563183082232
+The Beautiful And Damned,CHAPTER I,1,0.41085463305102227
+The Beautiful And Damned,CHAPTER II,4,1.0
+The Beautiful And Damned,CHAPTER III,6,1.0
+The Great Gatsby,CHAPTER I,0,0.5625303228276689
+The Great Gatsby,CHAPTER II,2,0.40175587854533407
+The Great Gatsby,CHAPTER III,1,0.18095483732241718
+The Great Gatsby,CHAPTER IV,0,1.0
+The Great Gatsby,CHAPTER V,2,0.16559996595174073
+The Great Gatsby,CHAPTER VI,0,1.0
+The Great Gatsby,CHAPTER VII,2,1.0
+The Great Gatsby,CHAPTER VIII,4,1.0
+The Great Gatsby,CHAPTER IX,2,1.0
