@@ -1,0 +1,31 @@
+# Core Python Libraries
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+joblib
+tqdm
+
+# NLTK and related resources
+nltk
+
+# Transformers and Deep Learning
+transformers
+torch
+
+# Topic Modeling
+bertopic
+sentence-transformers
+umap-learn
+hdbscan
+gensim
+
+# Wordclouds and Visualization
+wordcloud
+
+# Jupyter Notebooks and Display
+notebook
+ipython
+jupyter
+ipywidgets
