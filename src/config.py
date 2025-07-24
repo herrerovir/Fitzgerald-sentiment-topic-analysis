@@ -97,6 +97,7 @@ for path in [
     TRANSFORMER_FIGURES_DIR,
     TOPIC_FIGURES_DIR,
     LDA_FIGURES_DIR, 
-    BERTOPIC_FIGURES_DIR
+    BERTOPIC_FIGURES_DIR,
+    SENTIMENT_TOPIC_DIR
 ]:
     path.mkdir(parents=True, exist_ok=True)
