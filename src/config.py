@@ -51,6 +51,9 @@ TOPIC_FIGURES_DIR = FIGURES_DIR / "topic-modeling"
 LDA_FIGURES_DIR = TOPIC_FIGURES_DIR / "lda"
 BERTOPIC_FIGURES_DIR = TOPIC_FIGURES_DIR / "bertopic"
 
+# Sentiment and Topic Progression Figures
+SENTIMENT_TOPIC_DIR = FIGURES_DIR / "sentiment-topic-progression"
+
 # === Book Titles List ===
 BOOKS = [
     "this-side-of-paradise",
