@@ -4,8 +4,8 @@
 
 This project applies sentiment analysis and topic modeling to uncover emotional and thematic patterns in three of Fitzgerald’s novels: *This Side of Paradise*, *The Beautiful and Damned*, and *The Great Gatsby*. Combining natural language processing with literary analysis, it reveals how Fitzgerald’s stories evolve emotionally and thematically across chapters, offering a data-driven lens on his literary style.
 
-<p align="left"><img src="assets/fitzgerald.jpg" alt="F. Scott Fitzgerald" width="300"/></p>
-<p align="left"><em>F. Scott Fitzgerald, circa 1921 — young, brilliant, and on the cusp of literary immortality</em></p>
+<p align="center"><img src="assets/fitzgerald.jpg" alt="F. Scott Fitzgerald" width="300"/></p>
+<p align="center"><em>F. Scott Fitzgerald, circa 1921 — young, brilliant, and on the cusp of literary immortality</em></p>
 
 ## 🧐 Project Overview
 
